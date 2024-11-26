@@ -1,6 +1,7 @@
 # Script to start development environment
 
 With this script you can quickly launch all your applications and websites needed for your development.
+Available for Windows with plans to develop for Linux and macOS.
 
 ## Set up
 
@@ -20,9 +21,9 @@ start-dev-env
 ```
 
 ## Future Plans
--[] Create a application folder for modifying apps and websites to open.
--[] Create profiles, for example "programming", "video editing" or "gaming" for different apps and websites.
--[] Open up for Linux and macOS.
+- [ ] Create a application folder for modifying apps and websites to open.
+- [ ] Create profiles, for example "programming", "video editing" or "gaming" for different apps and websites.
+- [ ] Open up for Linux and macOS.
 
 ## Contibutions
 Cotributions are welcome make sure to open an issue or PR with detailed explanation of your changes/improvements.
